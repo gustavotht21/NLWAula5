@@ -11,13 +11,9 @@
 * [Autor](#-autor)
 * [Contato](#%EF%B8%8F-contato)
 
-# 
-
 ## ⚙️ Introdução 
 
 Projeto construído no evento Next Level Week da Rocketseat.
-
-#
 
 ## 🖥️ Tecnologias utilizadas
 
@@ -32,26 +28,18 @@ Projeto construído no evento Next Level Week da Rocketseat.
 
 - ``Github``
 
-#
-
 ## 🪚 Funcionalidades do projeto
 
 - ``Funcionalidade 1:`` Ao clicar nos ícones, o usuário é redirecionado para uma página contendo informações do item clicado.
-
-#
 
 ## 📂 Acesso ao projeto
 
 Você pode acessar o projeto [via link](https://gustavotht21.github.io/nlw-esports-explorer/) ou [baixar o projeto](https://github.com/gustavotht21/nlw-esports-explorer/archive/refs/heads/main.zip) e iniciá-lo na IDE de sua preferência, onde quando executado irá abrir no navegador o projeto funcionando
 
-# 
-
 ## 👤 Autor
 
 | [<img src="https://github.com/gustavotht21.png" width=115><br><sub>Gustavo Casagrande Borges</sub>](https://github.com/gustavotht21) |  
 | :---: | 
-
-#
 
 ## ✉️ Contato
 
